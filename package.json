@@ -1,16 +1,18 @@
 {
-  "name": "react-card-slider-component",
+  "name": "react-card-slider-component-tutorial",
   "description": "Easy to use",
   "author": "Johan",
   "version": "0.1.0",
-  "files":[
+  "main": "dist/ReactCardSlider.js",
+  "module": "dist/ReactCardSlider.js",
+  "files": [
     "dist",
     "README.md"
   ],
   "private": false,
-  "repository":{
+  "repository": {
     "type": "git",
-    "url": "https://github.com/JohanHauteville/react-card-slider"
+    "url": "git+https://github.com/JohanHauteville/react-card-slider"
   },
   "keywords": [
     "react slider",
@@ -24,6 +26,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
+    "react-card-slider-component-tutorial": "^0.1.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.11.0",
     "react-scripts": "5.0.1",

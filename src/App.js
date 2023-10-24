@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
-import ReactCardSlider from "./components/ReactCardSlider";
+// import ReactCardSlider from "./components/ReactCardSlider";
+import ReactCardSlider from "react-card-slider-component-tutorial";
 
 function App() {
   const sliderClick = (slider) => {
