@@ -10,7 +10,7 @@
   "private": false,
   "repository":{
     "type": "git",
-    "url": "https://github.com/JohanHauteville"
+    "url": "https://github.com/JohanHauteville/react-card-slider"
   },
   "keywords": [
     "react slider",
