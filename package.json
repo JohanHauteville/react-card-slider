@@ -2,7 +2,7 @@
   "name": "react-card-slider-component-tutorial",
   "description": "Easy to use",
   "author": "Johan",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/ReactCardSlider.js",
   "module": "dist/ReactCardSlider.js",
   "files": [
@@ -26,7 +26,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
-    "react-card-slider-component-tutorial": "^0.1.0",
+    "react-card-slider-component-tutorial": "^0.1.1",
     "react-dom": "^18.2.0",
     "react-icons": "^4.11.0",
     "react-scripts": "5.0.1",
